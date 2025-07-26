@@ -53,3 +53,4 @@ As part of her Power BI learning journey.
 
 
 
+![powerbi-sales-dashboard](powerbi-sales-dashboard.png)
